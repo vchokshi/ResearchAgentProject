@@ -17,7 +17,12 @@
   "policyEngines": [],
   "configBundles": [],
   "abTests": [],
-  "harnesses": [],
+  "harnesses": [
+    {
+      "name": "researchagent",
+      "path": "app/researchagent"
+    }
+  ],
   "datasets": [],
   "capacityProviders": [],
   "payments": []
